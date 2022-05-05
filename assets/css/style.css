@@ -12,6 +12,10 @@
 
 .cabecalho {
     grid-area: cabecalho;
+    align-items: center;
+  display: flex;
+  padding: 0 2rem;
+
 }
  
 .conteudo {
